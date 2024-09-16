@@ -32,7 +32,7 @@ January 2023 - May 2023
 
 ## Contributors
 
-[Your Name]
+Manali Jain
 
 ## License
 
